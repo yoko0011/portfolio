@@ -1,4 +1,4 @@
-# Description
+# portfolio
 
 ## Challenges 
 In this portfolio, which I worked on for this final assignment, encountered various problems in the beginning. First, I used bootstrapping for the header, but the navigation was unresponsive and positioned too high on some pages. I added new classes only for those pages that were out of alignment and made minor adjustments. I also made the layout so that the text and photos on every page were aligned vertically in two columns, so I used <div class="row"><div class="col-lg-6"> to position the text and photos.
